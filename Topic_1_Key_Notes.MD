@@ -1,6 +1,9 @@
 # Topic 1: Introduction to Oracle Machine Learning and Oracle Autonomous Cloud Platform
 *Source: Oracle University*
 
+
+![image](https://github.com/nicktoscano/oml_cert_2021/blob/main/images/image_2.png)
+
 ### Oracle Machine Learning Features:
 * Use Oracle Database as an HPC environment
 * Use in-database parallelized and distributed ML algorithms
@@ -10,6 +13,7 @@
 
 ### Machine Learning Vs. Oracle Machine Learning
 
+![image](https://github.com/nicktoscano/oml_cert_2021/blob/main/images/image_1.png)
 
 ### Oracle Machine Learning Algorithm Categories
 * Classification
