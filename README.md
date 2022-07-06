@@ -9,7 +9,7 @@ I have focused on Oracle certifications for the past two years. Some are easier 
 
 I recommend the following sources for study preparation for this exam:
 1.	<a href="https://education.oracle.com/">Oracle University</a>
-2.	<a href="(https://docs.oracle.com/en/database/oracle/machine-learning/index.html)">Product documentation</a>
+2.	<a href="https://docs.oracle.com/en/database/oracle/machine-learning/index.html">Product documentation</a>
 3.	<a href="https://www.udemy.com/">Udemy </a>
 4.	<a href="https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/home">Oracle LiveLabs</a>
 5.	<a href="https://blogs.oracle.com/machinelearning/">Oracle Machine Learning Blogs</a>
