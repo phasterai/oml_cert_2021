@@ -8,8 +8,8 @@
 I have focused on Oracle certifications for the past two years. Some are easier than others. Two of the challenges of certifications are understanding where to find content and on which content to focus. Oracle does a great job of spelling out what you need to know. There have been a few instances where the study material did not match the exam well. To help others achieve this certification, here is a helpful guide. Based on experience, this guide should remain applicable for 1 to 2 years unless there is a dramatic change in content for the exam. What I am saying is that I have noticed Oracle tends to keep content and exams consistent between years.
 
 I recommend the following sources for study preparation for this exam:
-1.	Oracle University <a href="url">link text</a>[https://education.oracle.com/]
-2.	Product documentation <a href="url">link text</a>[https://docs.oracle.com/en/database/oracle/machine-learning/index.html]
+1.	<a href="https://education.oracle.com/">Oracle University</a>
+2.	<a href="[url](https://docs.oracle.com/en/database/oracle/machine-learning/index.html)">Product documentation</a>
 3.	<a href="https://www.udemy.com/">Udemy </a>
 4.	<a href="https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/home">Oracle LiveLabs</a>
 5.	<a href="https://blogs.oracle.com/machinelearning/">Oracle Machine Learning Blogs</a>
@@ -123,6 +123,8 @@ Here is a list of LiveLabs course that can help you prepare for this exam:
 
 There is much more you can choose from than what I list here.
 
-# Conclusion:
+## Oracle’s Recommended Test Prep:
+<image4.png> [Exam Topics 1-3]
+<image5.png> [Exam Topics 4-5]
 
-I hope this provides a decent overview to help you prepare for the certification.  
+## Good Luck on your exam!
