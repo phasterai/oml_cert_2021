@@ -1,0 +1,210 @@
+Which statements about Algorithm Selection is false?
+The4 select() method of oml.automl.AlgorithmSelection only returns the name of the best algorithm for the modeling problem
+
+Examine the output:
+image: insert.jpg
+INSERT
+
+Which Oracle Cloud Services is not compatible with Oracle Machine Learning?
+Integration Cloud Service
+
+Which component is NOT contained in a workspace?
+Data Flow
+
+Which output format clears all previous SQLFORMAT settings and returns to the default output?
+DEFAULT
+
+Select all true about Supervised Machine Learning algorithm? (Select three answers)
+It includes two major process Classification and Regression
+It involves direct supervision of the operation
+It’s spoon-fed version of machine learning
+
+It is possible to create a notebook from a Personal Template in Oracle Machine Learning (True/False)?
+True
+
+Examine the output:
+image: xml.jpeg
+What is the output format used in the output?
+XML
+
+You are tasked with building a predictive model that can estimate the price of houses, based on attributes like number of rooms, square-footage (size), location, neighbourhood attributes, year built among others. Which three algorithms can you use to produce such a model with Oracle Machine Learning?
+Once-Class SVM, Generalized Linear Model (regression) explicit semantic analysis
+
+Which role can access the User Management interface?
+Administrator
+
+An optimal model for one modeling problem will work best for all modeling problems (True/False)?
+False
+
+Which output format is not supported by the SET SQLFORMAT command?
+TXT
+
+Which statement is false for unsupervised Machine Learning algorithm?
+Incoming data is labelled based on past data sample
+
+Examine the output:
+IMAGE: json.jpg
+What is the output format used in the output?
+JSON
+
+Which one is not a part of templates available in Oracle Machine Learning?
+Fixed Templates
+
+Which Zeppelin form allows you to select multiple selection of inputs?
+Check Box Form
+
+Which four actions would typically be performed during the data preparation step for analyzing data with Oracle Machine Learning?
+Performing feature engineering, such as creating derived variables
+Data collection from various sources
+Missing value replacement
+Binning of numeric data
+
+What is the URL length of AutoML model?
+Maximum 200 characters
+
+Notebook Technologies support the Creation of scripts while supporting?
+All of them: Approaches, documentation of assumptions, rationale to increase data science team productivity
+
+A SQL script can be exported from SQL Scratchpad (True/False)?
+True
+
+Which two objects are created by Oracle Machine Learning Service automatically?
+Project
+Workspace
+
+Which SQL statement is available in Autonomous Data Warehouse?
+NONE of the options: ALTER TABLESPACE, ALTER PROFILE, CREATE TABLESPACE
+
+You can access and manipulate data tables and views through? (Select three answers)
+OML4R
+OML4SQL
+OML4PY
+
+Which step is not required to be performed by an administrator when adding a new user to Oracle Machine Learning (OML) Notebooks?
+Provide the user with ADB client wallet for remote credentials
+
+In Oracle Machine Learning, Multi users can open the same notebooks simultaneously, however changes made by one user are not immediately updated for the other team members (True/False)?
+False
+
+Which statement is false for unsupervised Machine Learning algorithm?
+Incoming data is labelled based on past data sample
+
+What is the default Row Render Limit?
+1,000
+
+Examine the output:
+image: loader.jpeg
+What is the output format used in the output?
+LOADER
+
+To run a SQL script in SQL Scratchpad, which interpreter is mandatory in the first line?
+%sql
+
+Which output format supported by the SET SQLFORMAT command produces pipe-delimited output?
+LOADER
+
+Examine the output:
+image: html.jpg
+What is the output format used in the output?
+HTML
+
+Which three types of permissions can be granted to a user to collaborate and access a workspace in Oracle Machine Learning Notebooks?
+Manager, Developer, Viewer
+
+Oracle Machine Learning supports all machine learning algorithms (True/False)?
+True
+
+Which output format produces the INSERT statements that could be used to recreate the rows In a table?
+None of them: XML, JSON, DELIMITED
+
+A user can own multiple projects in a workspace (True/False)?
+True
+
+Which two statements are true about Classification algorithms?
+They assign cases to target categories
+They require known outcomes to guide the learning process
+
+What is the syntax of a checkbox form?
+${checkbox:formName=defaultValue1|defaultValue2...,option1|options2..}
+
+Which statement is false?
+You can perform data exploration and visualization only by OAC
+
+A user can own only single workspace (True/False)?
+False
+
+Which output format produces pipe delimited output with string values enclosed in double quotes?
+LOADER
+
+Which three components are used by Oracle Analytics Cloud?
+Zeppelin Server
+OML User Administrator
+OML Application
+
+When comparing between Descriptive analysis and predictive analysis, which two statements are wrong?
+Descriptive analysis results are not accurate
+The process in predictive analysis involves Data Aggregation and Data Mining
+
+When scheduling a job, which notebooks are available for selection?
+Notebooks shared by others users
+Notebooks opened by the user
+
+What is the maximum number of characters you can have in a job name?
+128 Bytes
+
+Which output format resizes the columns to the width of the data to save space?
+ANSICONSOLE
+
+Which information is not included in Example template page?
+Creation Date
+
+You have developed a notebook in an Autonomous Database (ADB) and you need to share the notebook with your colleague to run on a different ADB instance.
+
+How should you enable your colleague to work with this notebook?
+Export the notebook in json format and have your colleague import this notebook
+
+In which three use cases are Oracle Machine Learning algorithms suitable?
+Customer segmentation
+Medical Outcome Analysis
+Graph Analytics
+
+Which Key feature is not a part of Oracle Machine Learning Notebooks?
+Monitor Database
+
+Which format on autonomous database user can access data stored in OCI object storage?
+All of them: Parquet, ORC, AVRO, CSV
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
