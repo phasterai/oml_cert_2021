@@ -1,0 +1,135 @@
+Which statement is false for Oracle Machine Learning Templates?
+archive selected templates
+
+Which is a FALSE statement regarding Oracle Machine Learning (OML)?
+OML offerings need a separate data visualization tool for creating visualization
+
+Which is not a part of job frequency?
+Year
+
+Oracle Machine Learning are preferred for which five approaches?
+Robot control
+Computer Vision
+Speech recognition and NLP
+Medical outcome analysis
+Computational Biology
+
+Which one is not a part of SQL script scratchpad features?
+Tabular explain plan only
+
+Which output format command can be executed without the format name?
+Default
+
+Examine the output:
+image: loader.jpeg
+What is the output format used in the output?
+Loader
+
+Which three interpreters are available in scratchpad?
+%python, %script, %sql
+
+Which Apache Zeppelin dynamic forms are supported by Oracle Machine Learning? (Select three answers)
+Select form
+Check box form
+Text input form
+
+Which page is not available for Admin user?
+Scratchpads
+
+Which are two objects are automatically created by the Oracle Machine Learning service when you log in to Oracle Machine Learning for the first time?
+Workspace
+Project
+
+What is the syntax of an enter form?
+${formName}
+
+In which page you can modify the Row Render Limit?
+Connection Group
+
+What is the version format of AutoML model?
+xx.xx where x is number
+
+You can set the order for Interpreter binding for the notebook (True/False)?
+True
+
+Which tasks are only related to Administrator?
+All of them
+
+Which initialization parameters can be modified?
+All of them
+
+You need to press lock and edit to modify the template (True/False)?
+False
+
+Which tasks can you perform for Jobs? (Select four answers)
+Edit, Delete, Stop, Duplicate
+
+Which output format produces fixed width columns with all data enclosed in double-quotes?
+Fixed
+
+Which connection details are existing on Compute Resources page? (Select four answers)
+Port, Host, Comment, Name
+
+How can you create a new Workspace?
+From new project window
+
+Which task is not related to Developer?
+Reassign user workspace
+
+Which one is not valid task for versions of a notebook?
+Edit the version
+
+Which steps that Oracle AutoML Pipeline comprises of?
+Algorithm selection, Adaptive sampling, Hyperparameter tuning, Feature Selection
+
+
+Which one is not types of templates in The Oracle Machine Learning?
+Catalog Templates
+
+From which Machine Learning page you can create a new user?
+Manage OML Users
+
+Administrator can be able to create a new user, notebooks and jobs (True/False)?
+False
+
+Which output format allows you to manually define the delimiter string and the characters that are enclosed in the string values?
+DELIMITED
+
+Which output format allows you to manually define the delimiter string and the characters that are enclosed in the string values?
+Project
+
+Examine the output:
+image: default.jpg
+What is the output format used in the output?
+DEFAULT
+
+Which Zeppelin form contains a range of values?
+Select form
+
+Developer can change his own password (True/False)?
+True
+
+Which Oracle options are Restricted and removed from Oracle Machine Learning?
+All of them: Oracle OLAP, Oracle R Capabilities, Oracle Database Vault, Oracle Spatial and Graph, Oracle Advanced Analytic s, Oracle Industry Data models
+
+Examine the output:
+image: delimited.jpg
+What is the output format used in the output?
+DELIMITED
+
+Which commands are redistricted in Oracle Machine Learning?
+All of them: Create Table Space, Drop Table Space, Alter Profile, Alter Table Space, Create Database link
+
+Which information is not required when you are creating a new Oracle Machine Learning user?
+Comment
+
+When managing Machine Learning models using the OML AutoML UI, what are the three actions that can be performed on Oracle MachineLearning (OML) models from within OML AutoML UI?
+Review the model statistics associated with the experiment of an OML in-database model, Review the model statistics associated with the experiment of an ONNX-format model, Create a notebook with auto-generated OML4Py code from an OML in-database model to allow for further model tweaking and batchscoring
+
+The Oracle Machine Learning Templates UI enables you to collaborate with other users by?
+All of them: Publishing the work as reports, Sharing work, Creating notebooks from templates
+
+Examine the output:
+image: fixed.jpg
+What is the output format used in the output?
+FIXED
