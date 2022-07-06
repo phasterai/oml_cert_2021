@@ -1,0 +1,201 @@
+Which three statements are true about unsupervised machine learning?
+It uses unlabeled data
+There are no previously known result to guide the algorithm in building the model
+It analyzes cases where the target value is already known
+
+Which statement is FALSE about Oracle Machine Learning (OML) Notebooks?
+When visualizing a 1 million row database data using the built-in Zeppelin visualization, OML will by default display the result on the entire table
+
+Which two templates are supported while saving a notebook?
+shared
+personal
+
+
+Which type of user has access to the OML user management interface?
+Administrator
+
+Which two roles have the authority to drop database table?
+Developer
+Manager
+
+Two users at different locations are collaborating on a project by editing the same notebook.  Which type of notebook should the use for collaboration?
+Shared Notebook
+
+You have created a workspace in Oracle Machine Learning Notebooks and want to share it with collaborators by granting permissions to access your workspace. You want to enable other users to run and modify your notebooks but do not want to provide the ability to schedule jobs that run your notebooks. Which permission type should be granted to this user?
+Developer
+
+You are creating a job that should run a notebook every hour. You want to make sure that the job doesn’t run repeatedly if there are more than five consecutive failures to run the job. Which option should you set while creating the job?
+Maximum Failure Allowed
+
+Which two types of permissions allow you to create tables and run any script on an owner's account?
+Developer
+Manager
+
+You have created an Oracle Machine Learning notebook and want to share it with another collaborator. However, you do not want to provide the ability to run or modify the notebook in your workspace.
+Which three options can be used to do this?
+Provide the user Viewer permission to your workspace
+Export the. notebook and import it into the other user’s project
+Share the notebook as a shared Oracle Machine Learning Template
+
+Which three data sources you can use directly from Oracle Machine Learning?
+Table
+View
+CSV
+
+You want to predict the future revenue by building supervised models. What should you use to achieve this?
+Regression
+
+Which two Oracle Cloud services are Integrated with Oracle Machine Learning?
+Oracle Autonomous Database
+Oracle Analytics Cloud
+
+Which output format contains content of the table changes dynamically to match the search string entered in the text field?
+HTML
+
+Which feature is not part of Oracle Machine Learning?
+Sequence
+
+Which three are unsupervised machine learning algorithms?
+Association Rule
+Principal Component Analysis
+K-means clustering
+
+Which two statements are true about supervised machine learning?
+It generally results in predictive models
+The learning process is directed by a previously known dependent attribute or target
+
+What is the syntax of a select form?
+$(formName=defaultValue,option1|option2...)
+
+Examine the command:
+%script
+SET SQLFORMAT ANSICONSOLE
+What is the output of a query if this sqlformat is set?
+It formats and resizes the output columns to the width of the data to save space
+
+Which three tasks can be performed by an Oracle Machine Learning (OML) user with the Developer role?
+Create and run scratchpads
+Create and run OML notebooks
+Share notebooks
+
+Which role can access the Compute Resources page?
+Administrator
+
+What is the name length of AutoML model?
+Maximum 50 characters
+
+Which two components support in-database automatic machine learning (AutoML) functionality?
+OML4PY
+OML AutoML UI
+
+Which feature of Oracle Machine Learning Notebook should you use for data analysis, data discovery, data visualization, and collaboration on Oracle Autonomous Database?
+Notebook
+
+Which output format produces a document containing the definitions of the columns along with the data that it contains?
+JSON
+
+When managing models using the Model Repository screen from the OML AutoML UI, what are the four operations a user can do to the models and model deployments?
+Change the deployment date of a previously deployed OML in-database model
+Deploy and existing Oracle Machine Learning in-database model as a REST endpoint in OML services
+Change the owner of a previously deployed OML in-database model
+Change the namespace of a previously deployed OML in-database model
+
+hat is the correct sequence of creating items in Oracle Machine Learning (OML) Notebooks when setting up a new Autonomous Database instance?
+OML User, Notebook, Jobs
+
+
+image: sqlloader.png
+To which output the above output is related?
+SET SQLFORMAT LOADER
+
+You gave access to Company director as a Developer. Which two task can he do in Oracle Machine Learning?
+Create and run notebooks
+Run SQL statement
+
+Which two are required by an administrator while adding a new user to Oracle Machine Learning (OML) Notebooks?
+OML username and password
+User’s name and email ID
+
+Which notebook technology is used for Oracle Machine Learning in Oracle Autonomous Database?
+Zeppelin Notebook
+
+Which four commands are restricted in Oracle Machine Learning?
+Create Database Link
+Alter Profile
+Create Tablespace
+Alter Tablespace
+
+Which four statements are true about Oracle Machine Learning on Oracle Autonomous Database?
+In enables data analytics, data discovery, and data visualizations
+It provides a development environment to build models and score data
+It provides a collaborative web-based notebook interface
+It includes parallelized in-database algorithms
+
+You want to create a model outside your database, what is the first step you do to Load data?
+Load data
+
+image:checkbox.jpeg
+What is the Apache Zeppelin form used in the output?
+Check box form
+
+image: ansiconsole.jpg
+What is the output format used in the output?
+ANSICONSOLE
+
+What is the maximum Row Render Limit?
+1,000,000
+
+Which three are supervised machine learning algorithms?
+Random Forest
+Linear Regression
+Support Vector Machines
+
+Which output format contains data presented as CDATA tags?
+XML
+
+You want to segment your customer data for groups (High, Median and Low) to build supervised models. What should you use to achieve this?
+Classification
+
+What is the correct sequence of function invocations of AutoML API from OML4Py to solve a business problem?
+Algorithm selection ->Feature Selection->Model tuning
+
+What is the workflow to build Oracle Machine Learning model?
+Load Data->Prepare your Data->Build your model->Evaluate your model->Run the model
+
+image:selectform.jpeg
+What is the Apache Zeppelin form used in the output?
+Select form
+
+In which format is an Oracle Machine Learning Notebooks notebook saved or exported?
+JSON
+
+image:csv.jpg
+What is the output format used in the output?
+CSV
+
+A supermarket needs to segment its customers based on their purchasing pattern. Which machine learning technique should you use to achieve this?
+Anomaly Detection
+
+You have the below SQL statement run in Oracle Machine Learning notebook
+Select Product_Category_name , median(Sales_Amount) from Products , sales
+where products.id= sales.id
+group by Product_Category_name
+what is the result of the above SQL statement?
+It returns median of the sales_amount grouped by product_category_name?
+
+How can you share a notebook with multiple developers for a collaborative effort with notebook editing?
+You can share notebooks if you have Developer permissions
+
+Which output format produces standard comma-separated variable output with string values
+enclosed in double quotes?
+CSV
+
+image: textinputform.jpeg
+What is the Apache Zeppelin form used in the output?
+Text input form
+
+
+
+
+
+
