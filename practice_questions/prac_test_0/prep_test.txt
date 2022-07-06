@@ -1,0 +1,84 @@
+Which machine learning algorithm allows the system to identify patterns within data sets on its own?
+Unsupervised Machine Learning
+
+You are using Oracle Machine Learning with Autonomous Database for the first time. After creating an Autonomous Database, what is the next step that you have to perform?
+Create OML User
+
+Which two Python Libraries are used for visualization?
+matplotlib, cycler
+
+Which is NOT a supervised learning algorithm?
+Hierachical K-Means
+
+Which step in the AutoML pipeline involves reducing the size of the large data set into a smaller data set that adequately represents the original?
+Adaptive sampling
+
+6. Examine the steps:
+1. Adaptive Sampling
+2. Feature Selection
+3. Algorithm Selection
+4. Tuned Model
+5. Hyperparameter Tuning
+6. Collect Dataset
+Identify the correct order of steps for the OML AutoML UI pipeline.
+6,3,1,2,5,4
+
+Which option would you use to load data from Object Storage into an Oracle Autonomous Database?
+DBMS_Cloud package
+
+Which three data input options are available using Forms in Oracle Machine Learning Notebooks?
+Select from list
+Checkbox multi-select
+Text input
+
+Which three services can be used to access Oracle Machine Learning Notebooks?
+ADB, ATP, AJSONDB
+
+Which two can be performed by an Administrator in Oracle Machine Learning Notebooks?
+Reassign user workspace, View notebooks in read-only mode
+
+What is the definition of Recall?
+Proportion of actual positives that are correctly classified
+
+A user with Developer permission is trying to create a job on an existing notebook that is shared. However, the user is unable to do so. What is the reason?
+A developer cannot create jobs for notebooks that are shared
+
+When running which type of code must you use %script in Oracle Machine Learning Notebooks?
+PL/SQL script
+
+Which is the most time-consuming phase of the OML AutoML UI process?
+Hyperparameter tuning
+
+Which three tasks can you perform using Jobs in an OML notebook?
+stop jobs
+duplicate jobs
+create jobs
+
+Which type of machine learning categorizes data points with the help of a target attribute?
+Classification
+
+To navigate to a specific notebook provided by another user, which is the correct workflow?
+Select workspace > Select project > List notebooks > Open notebook
+
+Which three are true about Oracle Machine Learning Notebooks
+It can be used for data cleansing
+It can be used for data analysis
+It can be used for data visualization
+
+An OML AutoML UI Experiment is a work unit that minimally contains the definition of which three options?
+Data source
+Prediction target
+Algorithmn
+
+Which statement is FALSE about OML Notebooks?
+An existing database user cannot be added as an OML user using the User Management Interface
+
+What is the formula for accuracy of a model?
+Accuracy = (TP + TN)/(TP+TN+FP+FN)
+
+Which category of machine learning algorithms does One-Class SVM fall under?
+Anomaly detection
+
+Which two statements are true about OML AutoML UI?
+An Experiment can be run with two possible options: Faster Results or Better Accuracy
+Automates key modeling steps such as algorithm selection, feature selection, and hyper-parameter tuning
