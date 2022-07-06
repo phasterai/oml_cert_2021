@@ -20,6 +20,9 @@ Tabular explain plan only
 Which output format command can be executed without the format name?
 Default
 
+Which one is a container for storing your notebook and other objects
+Project
+
 Examine the output:
 image: loader.jpeg
 What is the output format used in the output?
