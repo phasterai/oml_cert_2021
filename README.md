@@ -100,9 +100,15 @@ Topic 8: Which role can access the Compute Resources page?
 
 Udemy provides additional sample test questions for this certification that you can buy. Click <a href="https://www.udemy.com/course/1z0-1096-21-oml-using-autonomous-database-2021-specialist/">here</a> to be directed to the 2021 sample test questions.
 
+![image](https://github.com/nicktoscano/oml_cert_2021/blob/main/images/image1.png)
+image: Udemy Prep Tests
+
 # Source Material:
 
 Oracle documentation is maintained a <a href="https://docs.oracle.com/en/database/oracle/machine-learning/oml-notebooks/">docs.oracle.com</a>. You should spend a large amount of your time going through this documentation.  In my experience, test questions come from information in the documentation.  
+
+![image](https://github.com/nicktoscano/oml_cert_2021/blob/main/images/image2.png)
+image: Oracle Machine Learning Documentation Landing Page
 
 # Hands-On Experience:
 
@@ -123,8 +129,15 @@ Here is a list of LiveLabs course that can help you prepare for this exam:
 
 There is much more you can choose from than what I list here.
 
+![image](https://github.com/nicktoscano/oml_cert_2021/blob/main/images/image3.png)
+image: Oracle LiveLabs
+
 ## Oracle’s Recommended Test Prep:
-<image4.png> [Exam Topics 1-3]
-<image5.png> [Exam Topics 4-5]
+
+![image](https://github.com/nicktoscano/oml_cert_2021/blob/main/images/image4.png)
+image: Exam Topics 1-3
+
+![image](https://github.com/nicktoscano/oml_cert_2021/blob/main/images/image5.png)
+image: Exam Topics 4-5
 
 ## Good Luck on your exam!
