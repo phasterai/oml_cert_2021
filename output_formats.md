@@ -1,7 +1,9 @@
 # Output Formats Available with Oracle Machine Learning
 ## *Oracle Machine Learning Certification Series*
 
-<image1_1.jpg> [puzzle.jng]
+![image](https://github.com/nicktoscano/oml_cert_2021/blob/main/images/puzzle.jpg)
+
+source: iStock
 
 Output formats are testable material on the Oracle Machine Learning certification. I am excerpting the output formats from Oracle documentation because they are significant for the exam, and it is easier to see them in one list. You can find more information about output formats in the Oracle Machine Learning Documentation. Refer to section Output Formats Supported by SET SQLFORMAT Command.
 
@@ -16,8 +18,7 @@ Now, add SET SQLFORMAT to our script and observe the output. To use these output
 %script 
 SET SQLFORMAT CSV
 ```
-
-<image1.png> [csv.png]
+![image](https://github.com/nicktoscano/oml_cert_2021/blob/main/images/csv.png)
 
 **HTML:** The HTML format produces the HTML for a responsive table. The content of the table changes dynamically to match the search string entered in the text field. The syntax is: 
 
@@ -26,7 +27,7 @@ SET SQLFORMAT CSV
 SET SQLFORMAT HTML
 ```
 
-<image2.png> [html.png] 
+![image](https://github.com/nicktoscano/oml_cert_2021/blob/main/images/html.png)
 
 **XML:** The XML format produces a tag based XML document. All data is presented as CDATA tags. The syntax is: 
 
@@ -35,7 +36,7 @@ SET SQLFORMAT HTML
 SET SQLFORMAT XML
 ```
 
-<image3.png> [xml.png]
+![image](https://github.com/nicktoscano/oml_cert_2021/blob/main/images/xml.png)
 
 **JSON:** The JSON format produces a JSON document containing the definitions of the columns along with the data that it contains. The syntax is: 
 
@@ -44,7 +45,7 @@ SET SQLFORMAT XML
 SET SQLFORMAT JSON 
 ```
 
-<image4.png> [json.png]
+![image](https://github.com/nicktoscano/oml_cert_2021/blob/main/images/json.png)
 
 **ANSICONSOLE:** The ANSICONSOLE format resizes the columns to the width of the data to save space. It also underlines the columns, instead of separate line of output. The syntax is: 
 
@@ -53,7 +54,7 @@ SET SQLFORMAT JSON
 SET SQLFORMAT ANSICONSOLE 
 ```
 
-<image5.png> [ansiconsole.png]
+![image](https://github.com/nicktoscano/oml_cert_2021/blob/main/images/ansiconsole.png)
 
 **INSERT:** The INSERT format produces the INSERT statements that could be used to recreate the rows in a table. The syntax is: 
 
@@ -62,7 +63,7 @@ SET SQLFORMAT ANSICONSOLE
 SET SQLFORMAT INSERT 
 ```
 
-<image6.png> [insert.png]
+![image](https://github.com/nicktoscano/oml_cert_2021/blob/main/images/insert.png)
 
 **LOADER:** The LOADER format produces pipe delimited output with string values enclosed in double quotes. The column names are not included in the output. The syntax is: 
 
@@ -71,7 +72,7 @@ SET SQLFORMAT INSERT
 SET SQLFORMAT LOADER
 ```
 
-<image7.png> [loader.png]
+![image](https://github.com/nicktoscano/oml_cert_2021/blob/main/images/loader.png)
 
 **FIXED:** The FIXED format produces fixed width columns with all data enclosed in double-quotes. The syntax is: 
 
@@ -80,7 +81,7 @@ SET SQLFORMAT LOADER
 SET SQLFORMAT FIXED
 ```
 
-<image8.png> [fixed.png]
+![image](https://github.com/nicktoscano/oml_cert_2021/blob/main/images/fixed.png)
 
 **DEFAULT:** The DEFAULT option clears all previous SQLFORMAT settings, and returns to the default output. The syntax is: 
 
@@ -89,7 +90,7 @@ SET SQLFORMAT FIXED
 SET SQLFORMAT DEFAULT
 ```
 
-<image9.png> [default.png]
+![image](https://github.com/nicktoscano/oml_cert_2021/blob/main/images/default.png)
 
 **DELIMITED** — The DELIMITED format allows you to manually define the delimiter string, and the characters that are enclosed in the string values. The syntax is: 
 
@@ -98,7 +99,7 @@ SET SQLFORMAT DEFAULT
 SQLFORMAT DELIMITED delimiter left_enclosure right_enclosure 
 ```
 
-<image10.png> [delimited.png]
+![image](https://github.com/nicktoscano/oml_cert_2021/blob/main/images/deliminated.png)
 
 For example:
 ```
@@ -113,7 +114,7 @@ Output: "EMPNO"~del~"ENAME"~del~"JOB"~del~"MGR"~del~"HIREDATE"~del~"SAL"~del~" C
 
 Here is an example question around output formats:
 
-<image11.png> [sqlloader.png]
+![image](https://github.com/nicktoscano/oml_cert_2021/blob/main/images/sqlloader.png)
 
 **Question:** To which output the above output is related?
 **Answer:** SET SQLFORMAT LOADER
