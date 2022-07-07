@@ -99,7 +99,7 @@ SET SQLFORMAT DEFAULT
 SQLFORMAT DELIMITED delimiter left_enclosure right_enclosure 
 ```
 
-![image](https://github.com/nicktoscano/oml_cert_2021/blob/main/images/deliminated.png)
+![image](https://github.com/nicktoscano/oml_cert_2021/blob/main/images/delimited.png)
 
 For example:
 ```
@@ -114,7 +114,7 @@ Output: "EMPNO"~del~"ENAME"~del~"JOB"~del~"MGR"~del~"HIREDATE"~del~"SAL"~del~" C
 
 Here is an example question around output formats:
 
-![image](https://github.com/nicktoscano/oml_cert_2021/blob/main/images/sqlloader.png)
+![image](https://github.com/nicktoscano/oml_cert_2021/blob/main/images/sqlloader.jpg)
 
 **Question:** To which output the above output is related?
 **Answer:** SET SQLFORMAT LOADER
