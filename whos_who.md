@@ -1,7 +1,8 @@
 # Who is Who on Oracle Machine Learning?
 ## *Oracle Machine Learning Certification Series*
 
-<image1.png> [puzzle.jpg]
+![image](https://github.com/nicktoscano/oml_cert_2021/blob/main/images/puzzle.jpg)
+source: iStock
 
 ## Introduction:
 
