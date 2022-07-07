@@ -72,10 +72,11 @@ In this example:
 •	The column name is OBJECT_TYPE
 
 Example 2:
-
+```
 %sql
 
 SELECT * FROM IRIS WHERE SPECIES = '${OBJ}';
+```
 
 <image4.png>[text_iris.png]
 
