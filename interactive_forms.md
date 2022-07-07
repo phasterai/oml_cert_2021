@@ -1,7 +1,9 @@
 # Understanding Interactive Zeppelin Forms in Oracle Machine Learning
 ## *Oracle Machine Learning Certification Series*
 
-<image0.png>[puzzle.jpg]
+![image](https://github.com/nicktoscano/oml_cert_2021/blob/main/images/puzzle.jpg)
+
+source: iStock
 
 Be familiar with the 3 interactive Zeppelin forms and the scripting syntax for the certification.  You may need to identify the type of form by the syntax given.
 
@@ -20,8 +22,7 @@ Script Syntax: ${formName=defaultValue,option1|option2...}
 
 SELECT * FROM ALL_OBJECTS WHERE OBJECT_TYPE = '${OBJ=INDEX,INDEX|TABLE|VIEW|SYNONYM}';
 ```
-
-<image1.png>[select.png]
+![image](https://github.com/nicktoscano/oml_cert_2021/blob/main/images/select.png)
 
 In this example:
 *	The form name is obj
@@ -39,10 +40,9 @@ be retrieved in the OBJECT_TYPE column in the ALL_OBJECTS table.
 SELECT * FROM IRIS WHERE SPECIES = '${OBJ=INDEX,virginica|setosa|versicolor}';
 ```
 
-<image2.png>[select_iris.png]
+![image](https://github.com/nicktoscano/oml_cert_2021/blob/main/images/select_iris.png)
 
-<image2_1.png>[select_form_bob.png]
-
+![image](https://github.com/nicktoscano/oml_cert_2021/blob/main/images/select_form_bob.png)
 
 **Section Notes:** 
 *	The form name can be changed to a value meaningful for you.  For example, you can call the form BOB.
@@ -64,7 +64,7 @@ Script Syntax: ${formName}
 SELECT * FROM ALL_OBJECTS WHERE OBJECT_TYPE = '${OBJ}';
 ```
 
-<image3.png>[text.png]
+![image](https://github.com/nicktoscano/oml_cert_2021/blob/main/images/text.png)
 
 In this example:
 •	The form name is obj
@@ -77,8 +77,7 @@ Example 2:
 
 SELECT * FROM IRIS WHERE SPECIES = '${OBJ}';
 ```
-
-<image4.png>[text_iris.png]
+![image](https://github.com/nicktoscano/oml_cert_2021/blob/main/images/text_iris.png)
 
 Section Notes: 
 •	The form name can be changed to a value meaningful for you.  For example, you can call the form BOB.
@@ -101,7 +100,7 @@ SELECT ${checkbox:whichcolumn=OWNER|OBJECT_TYPE, OWNER|OBJECT_NAME|OBJECT_TYPE|C
 'TABLE', 'INDEX', 'SYNONYM');
 ```
 
-<image5.png>[checkbox.png]
+![image](https://github.com/nicktoscano/oml_cert_2021/blob/main/images/checkbox.png)
 
 In this example:
 •	The Check Box form is WhichColumn
@@ -118,7 +117,8 @@ Example 2:
 
 SELECT ${checkbox:whichcolumn=ID|SPECIES,SEPAL_LENGTH|SEPAL_WIDTH|PETAL_LENGTH| PETAL_WIDTH|SPECIES|ID} FROM IRIS WHERE SPECIES IN ('virginica','setosa','versicolor');
 ```
-<image6.png>[checkbox_iris.png]
+
+![image](https://github.com/nicktoscano/oml_cert_2021/blob/main/images/checkbox_iris.png)
 
 Section Notes: 
 *	The Check Box form is WhichColumn
