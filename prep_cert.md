@@ -32,7 +32,7 @@ There are eight core topic areas for the 2021 exam. Below is information on each
 
 Topic 1: In this topic, you should understand Oracle Machine Learning features and algorithms. Also, understand what Oracle Machine Learning is.
 
-Topic2: In this topic, you should understand how to create a workspace, create projects, and how managing them.  This section will test your knowledge of how the administrator role works.  
+Topic 2: In this topic, you should understand how to create a workspace, create projects, and how managing them.  This section will test your knowledge of how the administrator role works.  
 
 See <a href="https://docs.oracle.com/en/database/oracle/machine-learning/oml-notebooks/omlug/get-started-project-and-workspaces1.html">Get Started with Project and Workspaces</a>
 
