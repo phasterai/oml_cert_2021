@@ -2,6 +2,7 @@
 ## *Oracle Machine Learning Certification Series*
 
 ![image](https://github.com/nicktoscano/oml_cert_2021/blob/main/images/puzzle.jpg)
+
 source: iStock
 
 ## Introduction:
