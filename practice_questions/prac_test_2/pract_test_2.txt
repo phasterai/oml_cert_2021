@@ -28,7 +28,7 @@ What is the output format used in the output?
 XML
 
 You are tasked with building a predictive model that can estimate the price of houses, based on attributes like number of rooms, square-footage (size), location, neighbourhood attributes, year built among others. Which three algorithms can you use to produce such a model with Oracle Machine Learning?
-Once-Class SVM, Generalized Linear Model (regression) explicit semantic analysis
+Once-Class SVM, Generalized Linear Model (regression), Support Vector Machine (regression)
 
 Which role can access the User Management interface?
 Administrator
