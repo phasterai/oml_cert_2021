@@ -174,7 +174,7 @@ What is the output format used in the output?
 CSV
 
 A supermarket needs to segment its customers based on their purchasing pattern. Which machine learning technique should you use to achieve this?
-Anomaly Detection
+Clustering
 
 You have the below SQL statement run in Oracle Machine Learning notebook
 Select Product_Category_name , median(Sales_Amount) from Products , sales
